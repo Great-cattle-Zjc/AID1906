@@ -6,14 +6,14 @@
 
 [add]
 
-## git 工作区
+##git 工作区
 
 
 [dead]
 
-## git 死了
+##git 死了
 
 [life]
 
-## git 活了
+##git 活了
 
