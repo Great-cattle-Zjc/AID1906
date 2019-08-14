@@ -7,3 +7,7 @@
 [add]
 
 ## git 工作区
+
+[dead]
+
+## git 死了
